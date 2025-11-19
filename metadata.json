@@ -1,21 +1,17 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "Atomic Learning: Pseudocode",
+    "slug": "atomic-learning-pseudocode",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning",
+        "programming"
     ],
-    "duration": 0,
+    "duration": 2,
     "prerequisites": [
-        "",
-        ""
+        "programming-pseudocode"
     ],
     "related": [
-        "",
-        ""
     ]
 }
